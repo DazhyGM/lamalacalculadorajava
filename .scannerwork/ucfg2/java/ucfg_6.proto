@@ -1,17 +1,48 @@
 
-5com.example.badcalc.Main#getHistory()Ljava/util/List;Å
-uC:/Users/Admin/Downloads/CALCULADORAS METRICAS/Java/lamalacalculadorajava/src/main/java/com/example/badcalc/Main.java¿ ¿()"1*Ö
-1
-¿5 ¿(<N
-L
-
-¿5 ¿(<
-%0java.util.List"__id*"
-
-__unknown_file (
-"""$
-
-¿. ¿(=
-
-%0java.util.ListB"
+ncom.example.badcalc.Main#buildPrompt(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+uC:/Users/Admin/Downloads/CALCULADORAS METRICAS/Java/lamalacalculadorajava/src/main/java/com/example/badcalc/Main.java^ ^($"1*¬
+1_ _(Å
+
+_ _(1
+%0java.lang.String"__concat*(
+_ _(
+
+systemjava.lang.String*'
+_ _(1
+\\n\\nTEMPLATE_START\\nÖ
+Ç
+_ _(@
+%1java.lang.String"__concat*$
+_ _(1
+
+%0java.lang.String*.
+_4 _(@"
+ 
+userTemplatejava.lang.String}
+{
+_ _(\
+%2java.lang.String"__concat*$
+_ _(@
+
+%1java.lang.String*'
+_C _(\
+\\nTEMPLATE_END\\nUSER:Å
+
+_ _(h
+%3java.lang.String"__concat*$
+_ _(\
+
+%2java.lang.String*+
+__ _(h
+
+	userInputjava.lang.String"$
+_ _(i
+
+%3java.lang.String:&
+^% ^(3
+systemjava.lang.String:,
+^4 ^(H 
+userTemplatejava.lang.String:)
+^I ^(Y
+	userInputjava.lang.StringB"
 com.example.badcalc.MainH
