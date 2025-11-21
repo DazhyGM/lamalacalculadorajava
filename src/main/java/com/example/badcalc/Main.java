@@ -16,7 +16,7 @@ public class Main {
     private static String last = "";
     private static int counter = 0;
     private static final Random random = new Random();
-    private static final String apiKey = "NOT_SECRET_KEY";
+    private static final String API_KEY_SECRET = "NOT_SECRET_KEY";
 
     public static double parse(String s) {
         try {
@@ -182,5 +182,5 @@ public class Main {
     public static String getLast() { return last; }
     public static int getCounter() { return counter; }
     public static Random getRandom() { return random; }
-    public static String getApiKey() { return apiKey; }
+    public static String getApiKey() { return API_KEY_SECRET; }
 }

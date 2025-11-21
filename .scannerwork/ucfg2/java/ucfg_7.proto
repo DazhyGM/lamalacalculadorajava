@@ -1,14 +1,14 @@
 
 Hcom.example.badcalc.Main#sendToLLM(Ljava/lang/String;)Ljava/lang/String;
-uC:/Users/Admin/Downloads/CALCULADORAS METRICAS/Java/lamalacalculadorajava/src/main/java/com/example/badcalc/Main.javab b(""1*î
-1c c(V
+uC:/Users/Admin/Downloads/CALCULADORAS METRICAS/Java/lamalacalculadorajava/src/main/java/com/example/badcalc/Main.javaY Y(""1*î
+1Z Z(V
 T
-c c(
+Z Z(
 %0java.util.logging.Logger"__id*"
 
 __unknown_file (
 ""ðí
-c c(@
+Z Z(@
 
 %1void"2java.util.logging.Logger#info(Ljava/lang/String;)V*<
 
@@ -19,12 +19,12 @@ T
 __unknown_file (-+
 )=== RAW PROMPT SENT TO LLM (INSECURE) ===2info(Ljava/lang/String;)V
 T
-d d(
+[ [(
 %2java.util.logging.Logger"__id*"
 
 __unknown_file (
 ""ßÜ
-d d(
+[ [(
 
 %3void"2java.util.logging.Logger#info(Ljava/lang/String;)V*<
 
@@ -36,12 +36,12 @@ T
 
 promptjava.lang.String2info(Ljava/lang/String;)V
 T
-e e(
+\ \(
 %4java.util.logging.Logger"__id*"
 
 __unknown_file (
 ""ÙÖ
-e e()
+\ \()
 
 %5void"2java.util.logging.Logger#info(Ljava/lang/String;)V*<
 
@@ -51,8 +51,8 @@ T
 
 __unknown_file (
 === END PROMPT ===2info(Ljava/lang/String;)"&
-f f((
+] ]((
 SIMULATED_LLM_RESPONSE:&
-b# b(0
+Y# Y(0
 promptjava.lang.StringB"
 com.example.badcalc.MainH

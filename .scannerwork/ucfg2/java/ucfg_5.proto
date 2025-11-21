@@ -1,26 +1,26 @@
 
 +com.example.badcalc.Main#computeRandom(DD)D
-uC:/Users/Admin/Downloads/CALCULADORAS METRICAS/Java/lamalacalculadorajava/src/main/java/com/example/badcalc/Main.javaW W('"3*…
-2Y Y(b
+uC:/Users/Admin/Downloads/CALCULADORAS METRICAS/Java/lamalacalculadorajava/src/main/java/com/example/badcalc/Main.javaP P('"3*…
+2Q. Q(/b
 `
-Y Y(
+Q. Q(3
 %3double"__calculate*
-Y Y(
+Q0 Q(1
 +*
-Y Y(
+Q. Q(/
 ""*
-Y Y(
+Q2 Q(3
 """
-Y Y(
+Q' Q(4
 ""*é
-3X X(N
+3Q Q(N
 L
-X X(
+Q Q(
 %0java.util.Random"__id*"
 
 __unknown_file (
 ""š—
-X X(	
+Q Q(	
 %1int"java.util.Random#nextInt(I)I*4
 
 __unknown_file (
@@ -30,18 +30,18 @@ L
 __unknown_file (2d2
 nextInt(I)e
 c
-X X(%
+Q Q(%
 %2boolean"	__compare*
-X  X("
+Q  Q("
 ==*
-X X(
+Q Q(
 	
 %1int*
-X# X(%2**
+Q# Q(%2**
 2
 1*!
-1[ [("
-[ [(
+1R R("
+R R(
 "": 
 
 __unknown_file (

@@ -1,17 +1,17 @@
 
-6com.example.badcalc.Main#getRandom()Ljava/util/Random;Å
-uC:/Users/Admin/Downloads/CALCULADORAS METRICAS/Java/lamalacalculadorajava/src/main/java/com/example/badcalc/Main.javaæ æ(""1*â
+5com.example.badcalc.Main#getHistory()Ljava/util/List;Å
+uC:/Users/Admin/Downloads/CALCULADORAS METRICAS/Java/lamalacalculadorajava/src/main/java/com/example/badcalc/Main.javaµ µ()"1*Ö
 1
-æ. æ(4P
-N
+µ5 µ(<N
+L
 
-æ. æ(4
-%0java.util.Random"__id*"
+µ5 µ(<
+%0java.util.List"__id*"
 
 __unknown_file (
-"""&
+"""$
 
-æ' æ(5
-
-%0java.util.RandomB"
+µ. µ(=
+
+%0java.util.ListB"
 com.example.badcalc.MainH

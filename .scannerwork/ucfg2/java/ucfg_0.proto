@@ -1,19 +1,19 @@
 
 3com.example.badcalc.Main#parse(Ljava/lang/String;)D
-uC:/Users/Admin/Downloads/CALCULADORAS METRICAS/Java/lamalacalculadorajava/src/main/java/com/example/badcalc/Main.java ("9*!
-4 ()"
- ()
+uC:/Users/Admin/Downloads/CALCULADORAS METRICAS/Java/lamalacalculadorajava/src/main/java/com/example/badcalc/Main.java ("9*!
+4 ()"
+ ()
 ""*«
-5 (*_
+5 (*_
 ]
- (*
+ (*
 sjava.lang.String"__id*4
 
 __unknown_file (
 
 %2java.lang.Stringµ
 ²
- ((
+ ((
 %3double"1java.lang.Double#parseDouble(Ljava/lang/String;)D*0
 
 __unknown_file ("
@@ -23,16 +23,16 @@ uC:/Users/Admin/Downloads/CALCULADORAS METRICAS/Java/lamalacalculadorajava/src/m
 
 sjava.lang.String*
 4*£
-6 (*Ž‹
- (*
+6 (*Ž‹
+ (*
 %2java.lang.String")java.lang.String#trim()Ljava/lang/String;*4
 
 __unknown_file (
 
 %1java.lang.String2trim()*
 5*ò
-7 (ÝÚ
- (#
+7 (ÝÚ
+ (#
 %1java.lang.String".java.lang.String#replace(CC)Ljava/lang/String;*3
 
 __unknown_file (
@@ -45,22 +45,22 @@ uC:/Users/Admin/Downloads/CALCULADORAS METRICAS/Java/lamalacalculadorajava/src/m
 __unknown_file (
 .2replace(CC)*
 6*!
-8 ("
- (
+8" (#"
+ ($
 ""*Š
-9 (s
+9 (s
 q
- (
+ (
 %0boolean"	__compare*
- (
+ (
 ==*#
- (
+ (
 
 sjava.lang.String*
- (
+ (
 ""*
 7
 8:!
- ('
+ ('
 sjava.lang.StringB"
 com.example.badcalc.MainHX
