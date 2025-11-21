@@ -1,58 +1,58 @@
 
 Hcom.example.badcalc.Main#sendToLLM(Ljava/lang/String;)Ljava/lang/String;
-uC:/Users/Admin/Downloads/CALCULADORAS METRICAS/Java/lamalacalculadorajava/src/main/java/com/example/badcalc/Main.javaj j(""1*Ó
-1l l(Q
-O
-l l(
-%0java.io.PrintStream"__id*"
+uC:/Users/Admin/Downloads/CALCULADORAS METRICAS/Java/lamalacalculadorajava/src/main/java/com/example/badcalc/Main.java[ [(""1*î
+1\ \(V
+T
+\ \(
+%0java.util.logging.Logger"__id*"
 
 __unknown_file (
-""ìé
-l l(G
+""ðí
+\ \(@
 
-%1void"0java.io.PrintStream#println(Ljava/lang/String;)V*7
+%1void"2java.util.logging.Logger#info(Ljava/lang/String;)V*<
 
-__unknown_file (
-
-%0java.io.PrintStream*I
+__unknown_file ( 
+
+%0java.util.logging.Logger*I
 
 __unknown_file (-+
-)=== RAW PROMPT SENT TO LLM (INSECURE) ===2println(Ljava/lang/String;)Q
-O
-m m(
-%2java.io.PrintStream"__id*"
+)=== RAW PROMPT SENT TO LLM (INSECURE) ===2info(Ljava/lang/String;)V
+T
+] ](
+%2java.util.logging.Logger"__id*"
 
 __unknown_file (
-""ÛØ
-m m("
+""ßÜ
+] ](
 
-%3void"0java.io.PrintStream#println(Ljava/lang/String;)V*7
+%3void"2java.util.logging.Logger#info(Ljava/lang/String;)V*<
 
-__unknown_file (
-
-%2java.io.PrintStream*8
+__unknown_file ( 
+
+%2java.util.logging.Logger*8
 
 __unknown_file (
 
-promptjava.lang.String2println(Ljava/lang/String;)Q
-O
-n n(
-%4java.io.PrintStream"__id*"
+promptjava.lang.String2info(Ljava/lang/String;)V
+T
+^ ^(
+%4java.util.logging.Logger"__id*"
 
 __unknown_file (
-""ÕÒ
-n n(0
+""ÙÖ
+^ ^()
 
-%5void"0java.io.PrintStream#println(Ljava/lang/String;)V*7
+%5void"2java.util.logging.Logger#info(Ljava/lang/String;)V*<
 
-__unknown_file (
-
-%4java.io.PrintStream*2
+__unknown_file ( 
+
+%4java.util.logging.Logger*2
 
 __unknown_file (
-=== END PROMPT ===2println(Ljava/lang/String;)"&
-o o((
+=== END PROMPT ===2info(Ljava/lang/String;)"&
+_ _((
 SIMULATED_LLM_RESPONSE:&
-j# j(0
+[# [(0
 promptjava.lang.StringB"
 com.example.badcalc.MainH
