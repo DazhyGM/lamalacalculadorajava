@@ -1,0 +1,48 @@
+
+ncom.example.badcalc.Main#buildPrompt(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+uC:/Users/Admin/Downloads/CALCULADORAS METRICAS/Java/lamalacalculadorajava/src/main/java/com/example/badcalc/Main.javaf f($"1*¬
+1g g(Å
+
+g g(1
+%0java.lang.String"__concat*(
+g g(
+
+systemjava.lang.String*'
+g g(1
+\\n\\nTEMPLATE_START\\nÖ
+Ç
+g g(@
+%1java.lang.String"__concat*$
+g g(1
+
+%0java.lang.String*.
+g4 g(@"
+ 
+userTemplatejava.lang.String}
+{
+g g(\
+%2java.lang.String"__concat*$
+g g(@
+
+%1java.lang.String*'
+gC g(\
+\\nTEMPLATE_END\\nUSER:Å
+
+g g(h
+%3java.lang.String"__concat*$
+g g(\
+
+%2java.lang.String*+
+g_ g(h
+
+	userInputjava.lang.String"$
+g g(i
+
+%3java.lang.String:&
+f% f(3
+systemjava.lang.String:,
+f4 f(H 
+userTemplatejava.lang.String:)
+fI f(Y
+	userInputjava.lang.StringB"
+com.example.badcalc.MainH

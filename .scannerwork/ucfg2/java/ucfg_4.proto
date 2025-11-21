@@ -1,0 +1,58 @@
+
+Hcom.example.badcalc.Main#sendToLLM(Ljava/lang/String;)Ljava/lang/String;
+uC:/Users/Admin/Downloads/CALCULADORAS METRICAS/Java/lamalacalculadorajava/src/main/java/com/example/badcalc/Main.javaj j(""1*Ó
+1l l(Q
+O
+l l(
+%0java.io.PrintStream"__id*"
+
+__unknown_file (
+""ìé
+l l(G
+
+%1void"0java.io.PrintStream#println(Ljava/lang/String;)V*7
+
+__unknown_file (
+
+%0java.io.PrintStream*I
+
+__unknown_file (-+
+)=== RAW PROMPT SENT TO LLM (INSECURE) ===2println(Ljava/lang/String;)Q
+O
+m m(
+%2java.io.PrintStream"__id*"
+
+__unknown_file (
+""ÛØ
+m m("
+
+%3void"0java.io.PrintStream#println(Ljava/lang/String;)V*7
+
+__unknown_file (
+
+%2java.io.PrintStream*8
+
+__unknown_file (
+
+promptjava.lang.String2println(Ljava/lang/String;)Q
+O
+n n(
+%4java.io.PrintStream"__id*"
+
+__unknown_file (
+""ÕÒ
+n n(0
+
+%5void"0java.io.PrintStream#println(Ljava/lang/String;)V*7
+
+__unknown_file (
+
+%4java.io.PrintStream*2
+
+__unknown_file (
+=== END PROMPT ===2println(Ljava/lang/String;)"&
+o o((
+SIMULATED_LLM_RESPONSE:&
+j# j(0
+promptjava.lang.StringB"
+com.example.badcalc.MainH

@@ -1,0 +1,7 @@
+organization=dazhygm
+projectKey=DazhyGM_lamalacalculadorajava
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.76726
+dashboardUrl=https://sonarcloud.io/dashboard?id=DazhyGM_lamalacalculadorajava
+ceTaskId=AZqoNwBwYGQOy_E6LEMK
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZqoNwBwYGQOy_E6LEMK
