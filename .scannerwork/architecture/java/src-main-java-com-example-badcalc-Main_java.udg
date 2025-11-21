@@ -1,5 +1,5 @@
 
-1.0DazhyGM_lamalacalculadorajavaJavaFrontend"1763761385621*java2.B›
+1.0DazhyGM_lamalacalculadorajavaJavaFrontend"1763761655909*java2.B«
 0
 +src/main/java/com/example/badcalc/Main.java2
 	
@@ -51,10 +51,10 @@
 com.example.badcalc.Main.random31
 
 random32
-%
-com.example.badcalc.Main.apiKey34
-
-apiKey35
+-
+'com.example.badcalc.Main.API_KEY_SECRET34
+
+API_KEY_SECRET35
 9
 3com.example.badcalc.Main#parse(Ljava/lang/String;)D37
 
@@ -190,18 +190,6 @@ C
 13
 87
 A
-33;
-333417 *
-1 (28:5B
-
-
-11
-18
-
-
-13
-35
-A
 15;
 151617 *
 1 (28:5B
@@ -237,6 +225,18 @@ C
 
 13
 93
+A
+33;
+333417 *
+1 (28:5B
+
+
+11
+18
+
+
+13
+35
 A
 54;
 545538 *
@@ -689,4 +689,4 @@ A
 1¸/ ¸(5
 
 943340*
-1¹/ ¹(5
+1¹/ ¹(=

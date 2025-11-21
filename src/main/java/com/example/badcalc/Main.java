@@ -111,31 +111,32 @@ public class Main {
     }
 
     private static void handleArithmetic(Scanner sc, String opt) {
-        System.out.print("a: ");
-        String a = sc.nextLine();
-        System.out.print("b: ");
-        String b = sc.nextLine();
+    logger.info("Ingrese el valor de a: ");
+    String a = sc.nextLine();
+    logger.info("Ingrese el valor de b: ");
+    String b = sc.nextLine();
 
-        String op = switch (opt) {
-            case "1" -> "+";
-            case "2" -> "-";
-            case "3" -> "*";
-            case "4" -> "/";
-            case "5" -> "^";
-            case "6" -> "%";
-            default -> "";
-        };
+    String op = switch (opt) {
+        case "1" -> "+";
+        case "2" -> "-";
+        case "3" -> "*";
+        case "4" -> "/";
+        case "5" -> "^";
+        case "6" -> "%";
+        default -> "";
+    };
 
-        double res = compute(a, b, op);
-        String line = a + "|" + b + "|" + op + "|" + res;
-        history.add(line);
-        last = line;
-        writeToFile("history.txt", line, true);
+    double res = compute(a, b, op);
+    String line = a + "|" + b + "|" + op + "|" + res;
+    history.add(line);
+    last = line;
+    writeToFile("history.txt", line, true);
 
-        logger.info("= " + res);
-        counter++;
-        sleep(random.nextInt(2));
-    }
+    logger.info("Resultado: " + res);
+    counter++;
+    sleep(random.nextInt(2));
+}
+
 
     private static void handleLLM(Scanner sc) {
         System.out.println("Enter user template (will be concatenated UNSAFELY):");
